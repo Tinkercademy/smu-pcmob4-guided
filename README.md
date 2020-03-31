@@ -6,4 +6,4 @@ It will allow users to search for movies included in the open database www.omdba
 The aesthetics of the app are up to you, but for this guide, follow along our demo! 
 
 Demo:
-![alt-text](link)
+![alt-text](https://github.com/Tinkercademy/smu-pcmob4-guided/blob/master/pcmob4-movie-app.gif)
